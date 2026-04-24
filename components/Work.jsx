@@ -10,42 +10,42 @@ import { IconLocation, IconArrowRight } from "./Icon";
 */
 const projects = [
   {
-    image: "/images/projects/Drummond.jpg",
+    image: "/images/projects/Drummond.JPG",
     name: "Drummond Elementary Playground",
     location: "St. Louis, MO",
     description:
       "Full installation of a multi-structure play system with poured-in-place safety surfacing.",
   },
   {
-    image: "/images/projects/Overheadpreturf.jpg",
+    image: "/images/projects/Overheadpreturf.JPG",
     name: "Maplewood Community Park",
     location: "Lexington, KY",
     description:
       "Multi-structure playground installation with engineered concrete footings and full equipment assembly, completed to manufacturer specifications.",
   },
   {
-    image: "/images/projects/preturf.jpg",
+    image: "/images/projects/preturf.JPG",
     name: "Northview School District",
     location: "Indianapolis, IN",
     description:
       "Completed installation of a preschool playground structure with attention to safety, stability, and long-term use.",
   },
   {
-    image: "/images/projects/Turf.jpg",
+    image: "/images/projects/Turf.JPG",
     name: "Cedar Grove HOA Play Area",
     location: "Nashville, TN",
     description:
       "Final project cleanup and turf installation, ensuring a polished, jobsite-ready result.",
   },
   {
-    image: "/images/projects/orangepreturf.jpg",
+    image: "/images/projects/orangepreturf.JPG",
     name: "Westbrook Church Campus",
     location: "Cincinnati, OH",
     description:
       "Active build of a single structure elementary playground with concrete footings annd equipment installation underway",
   },
   {
-    image: "/images/projects/Courtyarddrum.jpg",
+    image: "/images/projects/Courtyarddrum.JPG",
     name: "Lakeside Early Learning Center",
     location: "Grand Rapids, MI",
     description:
