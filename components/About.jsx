@@ -67,7 +67,7 @@ export default function About() {
             */}
             <div className="relative overflow-hidden rounded-xl bg-navy-100 shadow-lg ring-1 ring-navy-200">
               <img
-                src="/images/about/showcase.jpg"
+                src="/images/about/showcase.JPG"
                 alt="Eddington Builds crew on a commercial playground jobsite"
                 className="aspect-[4/5] w-full object-cover"
                 loading="lazy"
